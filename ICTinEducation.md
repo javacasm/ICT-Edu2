@@ -14,13 +14,13 @@ José Antonio Vacas, @javacasm
 
 Schedule
 
-   9:00 - 10:00  [Open Source World](./OpenSourceWorld.md) [Open Source Toolds](./OpenSourceTools.md)
+   9:00 - 10:00  [Open Source World](./OpenSourceWorld.md) -  [Open Source Toolds](./OpenSourceTools.md)
 
-  10:00 - 11:00  [Podcast](./Podcast.md) [Audio tools](./audioTools.md)
+  10:00 - 11:00  [Podcast](./Podcast.md) - [Audio tools](./audioTools.md)
 
   11:00 - 11:30  Relaxing Time
 
-  11:30 - 13:00  [Video](./Video.md) [YouTube](./youtube.md)
+  11:30 - 13:00  [Video tools](./Video.md) - [YouTube](./youtube.md)
 
 ## [Resources](./resources.md)
 
