@@ -28,6 +28,14 @@
 
 # Projects open-source
 
+## wikibooks
+
+* [ICT in education](https://en.wikibooks.org/wiki/ICT_in_Education)
+
+## Slideshare
+
+* [ICT in education](http://www.slideshare.net/manaseducation/ict-in-education-41611729)
+
 ## Linux
 
 80% of Internet's server uses Linux or free software
