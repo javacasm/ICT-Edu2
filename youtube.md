@@ -30,7 +30,7 @@
 ![Audio](./images/YoutubeAudio.png)
 
 ## Adding Annotations
-![Annotations]](./images/YoutubeAnnotations.png)
+![Annotations](./images/YoutubeAnnotations.png)
 
 ## Add Cards (links to other videos)
 ![Cards](./images/YouTubeCards.png)
