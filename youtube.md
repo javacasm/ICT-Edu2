@@ -21,14 +21,19 @@
 ### [Make  videos like a pro](https://www.youtube.com/watch?v=At4QdGdwI7o)
 
 ## Video info
-![1](./images/YoutubeInfo.png)
+![Info](./images/YoutubeInfo.png)
+
 ##  Improve your video quality
-![1](./images/YoutubeEnhancements.png)
+![quality](./images/YoutubeEnhancements.png)
+
 ## Adding Audio (music)
-![1](./images/YoutubeAudio.png)
+![Audio](./images/YoutubeAudio.png)
+
 ## Adding Annotations
-![a](./images/AYoutubeAnnotations.png)
+![Annotations]](./images/YoutubeAnnotations.png)
+
 ## Add Cards (links to other videos)
-![1](./images/YouTubeCards.png)
+![Cards](./images/YouTubeCards.png)
+
 ## Add Subtitles
-![1](./images/YouTubeSubtitles.png)
+![cc](./images/YouTubeSubtitles.png)
