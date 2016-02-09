@@ -6,7 +6,7 @@
 
 ## Open Source Tools for Teaching and Learning – Programming in Class
 
-José Antonio Vacas @javacasm
+### José Antonio Vacas @javacasm
 
 ![./Licencia CC.png](./images/Licencia_CC.png)
 
