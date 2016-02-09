@@ -25,6 +25,14 @@
 ## Video info
 ![Info](./images/YoutubeInfo.png)
 
+### Privacy
+
+#### Public: everybody can watch and find
+
+#### Hidden: anybody that get the URL (cannot find)
+
+#### Private: you choose who will see
+
 ##  Improve your video quality
 ![quality](./images/YoutubeEnhancements.png)
 
