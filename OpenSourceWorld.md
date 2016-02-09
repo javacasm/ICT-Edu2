@@ -65,4 +65,5 @@
 ![OLPC_classroom_teaching.JPG](./images/OLPC_classroom_teaching.JPG)
 
 * No need of electricity (hand crank)
+* No need of network hardware (no router, no wires....)
 * Robust
