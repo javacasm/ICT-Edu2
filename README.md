@@ -6,6 +6,8 @@
 
 ## Open Source Tools for Teaching and Learning – Programming in Class
 
+José Antonio Vacas @javacasm
+
 ![./Licencia CC.png](./images/Licencia_CC.png)
 
 ### It's not about Learning to use the Computer, its about finding a better way to learning everything using the Computers
