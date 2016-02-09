@@ -50,7 +50,7 @@
 
 ![Linus_Torvalds](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Linus_Torvalds.jpeg/330px-Linus_Torvalds.jpeg)
 
-## Raspberry:
+## [Raspberry](http://raspberrypi.org):
 
   * Low cost (25$) computer that every child can use at home & school.
   * It has not cover in order to fire the curiosity
