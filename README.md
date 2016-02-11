@@ -14,7 +14,7 @@
 
 #### Schedule - Thursday
 
-  09:00 - 11:00 Working in your presentation
+  09:00 - 11:00 Working in your presentations 
 
   11:00 - 11:30 Relaxing Time
 
