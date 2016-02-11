@@ -14,7 +14,7 @@
 
 #### Schedule - Thursday
 
-  09:00 - 11:00 Working in your presentations 
+  09:00 - 11:00 Working in your presentations
 
   11:00 - 11:30 Relaxing Time
 
@@ -22,11 +22,13 @@
 
 #### Schedule - Tuesday
 
-  10:00 - 11:00  [Podcast](./Podcast.md) - [Audio tools](./audioTools.md)
+  09:00 - 10:00 [Open source World](./OpenSourceWorld.md) - [Open Source Tools](./OpenSourceTools.md)
 
-  11:00 - 11:30  Relaxing Time
+  10:00 - 11:00 [Podcast](./Podcast.md) - [Audio tools](./audioTools.md)
 
-  11:30 - 13:00  [Video tools](./Video.md) - [YouTube](./youtube.md)
+  11:00 - 11:30 Relaxing Time
+
+  11:30 - 13:00 [Video tools](./Video.md) - [YouTube](./youtube.md)
 
 ## [Resources](./resources.md)
 
