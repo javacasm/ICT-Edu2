@@ -12,7 +12,7 @@
 
 ### It's not about Learning to use the Computer, its about finding a better way to learning everything using the Computers
 
-Schedule - Thursday
+#### Schedule - Thursday
 
   09:00 - 11:00 Working in your presentation
 
@@ -20,7 +20,7 @@ Schedule - Thursday
 
   11:30 - 13:00 Working with tools
 
-Schedule - Tuesday
+#### Schedule - Tuesday
 
   10:00 - 11:00  [Podcast](./Podcast.md) - [Audio tools](./audioTools.md)
 
